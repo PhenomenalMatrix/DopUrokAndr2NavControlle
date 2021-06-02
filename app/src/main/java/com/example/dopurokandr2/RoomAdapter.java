@@ -32,6 +32,7 @@ public class RoomAdapter extends RecyclerView.Adapter<RoomAdapter.ViewHolder> {
         binding = ItemRoomRvBinding.inflate(LayoutInflater.from(parent.getContext()),parent,
                 false);
         return new ViewHolder(binding);
+
     }
 
     @Override
