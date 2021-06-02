@@ -9,4 +9,7 @@
         />
     <item android:id="@+id/thirdFragment"
         android:title="third" android:icon="@drawable/abc_vector_test"/>
+
+    <item android:id="@+id/roomFragment"
+        android:title="third" android:icon="@drawable/abc_vector_test"/>
 </menu>

@@ -34,4 +34,14 @@
             android:defaultValue="Hello, android!"
             />
     </fragment>
+    <fragment
+        android:id="@+id/roomFragment"
+        android:name="com.example.dopurokandr2.RoomFragment"
+        android:label="fragment_room"
+        tools:layout="@layout/fragment_room" />
+    <fragment
+        android:id="@+id/formFragment2"
+        android:name="com.example.dopurokandr2.FormFragment2"
+        android:label="fragment_form2"
+        tools:layout="@layout/fragment_form2" />
 </navigation>
